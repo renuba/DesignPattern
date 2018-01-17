@@ -3,7 +3,6 @@ package prototype;
 import java.util.List;
 
 public class PrototypePatternTest {
-
 	public static void main(String[] args) throws CloneNotSupportedException {
 		Employees emps = new Employees();
 		emps.loadData();
